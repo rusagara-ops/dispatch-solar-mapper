@@ -1,0 +1,27 @@
+[
+  {
+    "id": "phoenix-az",
+    "name": "Phoenix hub",
+    "address": "1 N Central Ave, Phoenix, AZ 85004"
+  },
+  {
+    "id": "austin-tx",
+    "name": "Austin office",
+    "address": "500 E 4th St, Austin, TX 78701"
+  },
+  {
+    "id": "denver-co",
+    "name": "Denver warehouse",
+    "address": "1701 Wynkoop St, Denver, CO 80202"
+  },
+  {
+    "id": "atlanta-ga",
+    "name": "Atlanta site",
+    "address": "55 Trinity Ave SW, Atlanta, GA 30303"
+  },
+  {
+    "id": "portland-or",
+    "name": "Portland lab",
+    "address": "1120 SW 5th Ave, Portland, OR 97204"
+  }
+]
