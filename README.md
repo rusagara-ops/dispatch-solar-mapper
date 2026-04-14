@@ -1,0 +1,1 @@
+# dispatch-solar-mapper
